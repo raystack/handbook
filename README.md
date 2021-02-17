@@ -1,4 +1,4 @@
-# Documentation Template
+# Projet Name
 
 This is a short description about the project (what it does at high level) This project is a template for demonstrating structure of docs for a given project.
 
@@ -12,8 +12,8 @@ Some features of this project:
 
 In order to install this project locally, you can follow the instructions below:
 ```
-$ git clone git@github.com:odpf/documentation-template.git
-$ cd project-docs-template
+$ git clone git@github.com:odpf/cookies.git
+$ cd cookies
 $ make
 $ additional commands for running it
 ```
@@ -21,7 +21,7 @@ $ additional commands for running it
 ### Subsection: How to install directly
 
 ```
-$ pip install documentation-template
+$ pip install cookies
 ```
 
 
