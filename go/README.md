@@ -91,7 +91,7 @@ Remember this when naming exported variables, constants, functions, and types.
 
 That's why we have `bytes.Buffer` and `strings.Reader`, not `bytes.ByteBuffer` and `strings.StringReader`.
 
-# Interface Types
+### Interface Types
 Interfaces that specify just one method are usually just that function name with 'er' appended to it.
 ```go
 type Reader interface {
