@@ -3,6 +3,13 @@ module.exports = {
     'introduction',
     {
       type: "category",
+      label: "Development",
+      items: [
+        "development/merge-request",
+      ],
+    },
+    {
+      type: "category",
       label: "Go",
       items: [
         "go/overview",
