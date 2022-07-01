@@ -14,6 +14,7 @@ module.exports = {
       items: [
         "engineering/merge-request",
         "engineering/commits",
+        "engineering/docs",
         "engineering/configurations",
       ],
     },
