@@ -3,9 +3,18 @@ module.exports = {
     'introduction',
     {
       type: "category",
-      label: "Development",
+      label: "Product",
       items: [
-        "development/merge-request",
+        "product/roadmap",
+      ],
+    },
+    {
+      type: "category",
+      label: "Engineering",
+      items: [
+        "engineering/merge-request",
+        "engineering/commits",
+        "engineering/configurations",
       ],
     },
     {
