@@ -1,4 +1,4 @@
-# Go
+# Overview
 
 This repository holds the ODPF Go Style Guide, which documents patterns and conventions used in Go code across ODPF products.
 
