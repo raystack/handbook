@@ -1,4 +1,6 @@
-### Configurations
+# General
+
+## Configurations
 
 Each of the configs should be namespaced according to the role/usage/context that they have followed by the type/implementation of it. For example - for statsd url - statsd is an implementation for metric collection hence the config would look like metric.statsd.url
 Any delimiters depending on the language/framework can be used. Like “.” or “\_” or “/” etc. Default would be `.`

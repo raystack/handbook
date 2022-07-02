@@ -46,16 +46,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'ODPF Handbook',
+        title: 'Handbook',
         logo: { src: '/logo.svg', },
         hideOnScroll: true,
         items: [
-          {
-            type: 'doc',
-            docId: 'introduction',
-            position: 'right',
-            label: 'Documentation',
-          },
           {
             href: 'https://bit.ly/2RzPbtn',
             position: 'right',

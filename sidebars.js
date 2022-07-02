@@ -1,6 +1,6 @@
 module.exports = {
   docsSidebar: [
-    'introduction',
+    'overview',
     {
       type: "category",
       label: "Product",
@@ -10,22 +10,28 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Engineering",
+      label: "Design",
       items: [
-        "engineering/merge-request",
-        "engineering/commits",
-        "engineering/docs",
-        "engineering/configurations",
+        "design/cli",
       ],
     },
     {
       type: "category",
-      label: "Go",
+      label: "Engineering",
       items: [
-        "go/overview",
-        "go/structure",
-        "go/style_guide",
-        "go/error_handling",
+        "engineering/commits",
+        "engineering/pull-request",
+        "engineering/docs",
+        "engineering/release",
+      ],
+    },
+    {
+      type: "category",
+      label: "Programming",
+      items: [
+        "programming/general",
+        "programming/go",
+        "programming/java",
       ],
     },
   ],

@@ -71,3 +71,7 @@ The reason behind using present tense is that the commit message is answering th
 ## Summary
 
 Commit message should be in conventional format. Strcitly present tense. Not capitalized. No period in the end.”, and imperative like the type.
+
+## References
+
+- https://github.blog/2022-06-30-write-better-commits-build-better-projects/
